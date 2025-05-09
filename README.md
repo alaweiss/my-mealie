@@ -1,11 +1,9 @@
-<p align="center">
-  <h2 align="center">A Mealie Fork</h2>
+<h1 align="center">A Mealie Fork</h1>
   <h3 align="center">
     Mealie: A Place For All Your Recipes</h3>
     <a href="https://docs.mealie.io/"><strong>Explore the docs »</strong></a>
     <br />
     <a href="https://demo.mealie.io/">View Demo</a>
-</p>
 
 ## About The Project
 
